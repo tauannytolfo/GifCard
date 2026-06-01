@@ -10,8 +10,9 @@
     padding: 15px 25px;
 }
 h1{
-    color:blueviolet}
+    color:blueviolet;
     text-decoration:none;
+}
 body{
     display:flex;
     flex-direction: column;
